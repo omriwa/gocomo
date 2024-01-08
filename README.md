@@ -131,3 +131,7 @@ The number one first-timer's mistake is to use the wrong database driver. It hap
 Copyright (c) 2019 Liberation Data
 
 This quick start is released under <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>.
+
+## Contributing
+
+ - [By Omri Wallach](https://www.linkedin.com/in/omri-wallach-19989a113/)
